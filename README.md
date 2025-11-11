@@ -107,7 +107,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Credits
 
-Developed with ❤️ by FoodFinder
+Developed with ❤️ by FoodFinder Team
+Vijayasooriyan Kamarajah (myself)
+Kavindi Arunika
+Rachini
+Rashmi Nisansala
 
 ---
 
